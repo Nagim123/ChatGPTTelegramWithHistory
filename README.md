@@ -26,7 +26,12 @@ python main.py
 All chat histories are saved in ```history``` folder. You can rename chat history files manually if you want to organize them.
 <br/>
 You can load history via command or using button (shown in picture below).
-![History button picture](https://raw.githubusercontent.com/Nagim123/GPImageClassification/main/outputs/tree_example.png)
+<br/>
+<br/>
+Picture:
+<br/>
+![History button picture](https://github.com/Nagim123/ChatGPTTelegramWithHistory/blob/master/picture.png)
+<br/>
 ## Bot commands
 1. ```/new``` - start new chat session.
 2. ```/load_history <history_name>``` - load chat history.
